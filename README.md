@@ -1,2 +1,2 @@
-# SSH-FTP-config
-SSH FTP config
+# My SSH-FTP-config
+My SSH FTP config
